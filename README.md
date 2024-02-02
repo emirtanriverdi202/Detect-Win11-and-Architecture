@@ -30,7 +30,7 @@ This only works in certain browsers:
 </tbody>
 </table>
 You probably won't have problems with almost all Chromium browsers. But it won't work on Internet Explorer, Firefox, and most browsers built on a new engine.
-
+<br>
 Platform versions of Windows's:
 <table>
 <thead>
